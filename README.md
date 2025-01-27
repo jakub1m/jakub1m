@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakub1m&label=Profile%20views&color=0e75b6&style=flat" alt="jakub1m" /> </p>
 
-- 🌱 I’m currently learning: **Data Structures and Algorithms, Machine Learning, AI**
+- 🌱 I’m currently learning: **Machine Learning, NLP**
 
 - 📫 How to reach me: **jakub1michalski@gmail.com**
 
