@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jakub</h1>
-<h3 align="center">🐍 Python Enthusiast | AI/ML Explorer | Automating the future | Solving real-world challenges | Open-source advocate | Lifelong learner 🌟</h3>
+<h3 align="center">🐍 Python Enthusiast | AI/ML Explorer | Automating the future | Solving real-world challenges | Lifelong learner 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakub1m&label=Profile%20views&color=0e75b6&style=flat" alt="jakub1m" /> </p>
 
-- 🌱 I’m currently learning: **Machine Learning, NLP**
+- 🌱 I’m currently learning about Computer Vision and Vision Transformers**
 
 - 📫 How to reach me: **jakub1michalski@gmail.com**
 
