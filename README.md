@@ -7,9 +7,9 @@
 </p>
 
 ### 🛠️ What I'm building
-- 🔭 **Current Focus:** Vision Transformers (ViT) and advanced Computer Vision.
 - ⚡ **Flagship Project:** Automated School Radio System.
-- 🤖 **AI Interests:** Generative AI, Sensor Fusion, and NLP-driven security.
+- 🔭 **Current Focus:** Building end-to-end ML systems and experimenting with custom model implementations in PyTorch
+- 🤖 **AI Interests:** Applied AI systems, generative models, and integrating ML with real-world applications
 - 📅 **Availability:** Open for Junior/Mid roles or High-impact Internships from **May 2026**.
 
 ---
