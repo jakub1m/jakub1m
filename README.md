@@ -28,11 +28,6 @@
 
 ---
 
-### 📊 Github Stats
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakub1m&show_icons=true&theme=dark&locale=en&layout=compact" alt="jakub1m" />
-</p>
-
 ### 📫 Connect with me:
 <p align="left">
 <a href="mailto:jakub1michalski@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
