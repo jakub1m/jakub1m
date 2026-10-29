@@ -1,16 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jakub</h1>
 
-<h3 align="center">🏆 National AI Olympiad Finalist | 🚀 Multi-Hackathon Winner | 🐍 Python & AI Developer</h3>
+<h3 align="center">🏆 AI Olympiad Finalist | 🎓 AI Student @ Jagiellonian University | 🚀 Multi-Hackathon Winner | 🐍 Python & AI Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jakub1m&label=Profile%20views&color=0e75b6&style=flat" alt="jakub1m" />
 </p>
 
-### 🛠️ What I'm building
-- ⚡ **Flagship Project:** Automated School Radio System.
-- 🔭 **Current Focus:** Building end-to-end ML systems and experimenting with custom model implementations in PyTorch
-- 🤖 **AI Interests:** Applied AI systems, generative models, and integrating ML with real-world applications
-- 📅 **Availability:** Open for Junior/Mid roles or High-impact Internships from **May 2026**.
+ ### 🚀 Currently
+   | - 🤖 **AI Interests:** Connecting AI with the real world 
+   │ - 📅 **Availability:** open to internships or part-time work
+
 
 ---
 
